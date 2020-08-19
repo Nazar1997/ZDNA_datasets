@@ -36,6 +36,12 @@ Sequence motifs of non-B DNA (SMnB) in mouse and human
 
 Взят из https://github.com/Boyle-Lab/Blacklist/blob/master/lists/hg19-blacklist.v2.bed.gz
 
+## Wu.bed
 
+Объеденение 2х экспериментов 
 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4141415
 
+https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4141416
+
+Очищены от побочных хромосом
