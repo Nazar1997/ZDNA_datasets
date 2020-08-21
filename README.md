@@ -32,7 +32,7 @@ Sequence motifs of non-B DNA (SMnB) in mouse and human
 
 ## hg19-blacklist.v2.bed
 
-Список центромерных областей
+Из черного списка ENCODE. Взят из публикации https://www.nature.com/articles/s41598-019-45839-z
 
 Взят из https://github.com/Boyle-Lab/Blacklist/blob/master/lists/hg19-blacklist.v2.bed.gz
 
